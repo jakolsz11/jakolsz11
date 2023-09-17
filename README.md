@@ -3,7 +3,7 @@
 <h3 align="center">A junior FullStack Developer</h3>
 </br>
 
-- 🔭 I’m currently working on **page for signing up for tutoring**
+- 🔭 I’m currently working on **page for signing up for public lessons**
 
 - 🌱 I’m currently learning **MERN**
 
