@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **page for signing up for private lessons**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **PYTHON**
 
 - 👯 I’m looking to collaborate on **project that will give me the opportunity for further development**
 
