@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **page for signing up for private lessons**
-
 - 🌱 I’m currently learning **PYTHON**
 
 - 👯 I’m looking to collaborate on **project that will give me the opportunity for further development**
